@@ -1,0 +1,10 @@
+javac Main.java
+javac Worker.java
+javac Ceo.java
+javac AdministrativeAssistant.java
+javac Electrician.java
+javac Plumber.java
+javac Worker.java
+javac DeskWorker.java
+javac Company.java
+javac Saboteur.java
